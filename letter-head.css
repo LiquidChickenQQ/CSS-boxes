@@ -42,7 +42,8 @@ h1 {
 /* Your CSS below here */
 
 article {
-    background:-moz-linear-gradient(bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.0) 80%, rgba(0, 0, 0, 0.3) 100%), -moz-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.0) 80%, rgba(0, 0, 0, 0.3) 100%),
+    background:-moz-linear-gradient(bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.0) 80%, rgba(0, 0, 0, 0.3) 100%),
+    -moz-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.0) 80%, rgba(0, 0, 0, 0.3) 100%),
     url(top-image.png) top, 
     url(bottom-image.png) bottom;
     background-repeat: no-repeat;
